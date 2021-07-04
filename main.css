@@ -21,7 +21,7 @@ a{
     padding:20px;
     width:80%;
     border-radius:20px;
-    background-color: #1C0B36;
+    background-color: #134777;
     height:60px;
 }
 .tweaked img{
@@ -53,7 +53,7 @@ a{
     padding:5px;
     border-radius:50px;
     float:right;
-    color:#F2F7FF;
+    color: #FFFFFF;
     margin-right:0px;
     border:5px solid #F2F7FF;
 }
@@ -75,7 +75,7 @@ color: #1A1A1A;
     padding:20px;
     width:80%;
     border-radius:20px;
-    background-color: #1C0B36;
+    background-color: #134777;
     height:60px;
 }
 .apps img{
@@ -106,20 +106,9 @@ color: #1A1A1A;
     width:55px;
     padding:5px;
     border-radius:50px;
-    float:right;
-    color:#F2F7FF;
+    float: right;
+    color: #FFFFFF;
     margin-right:0px;
     font-family: Framework7 Icons;
     font-size: 40px;
-}
-.apps a:hover{
-    display:block;
-    width:55px;
-    padding:5px;
-    border-radius:50px;
-    float:right;
-    color: #A02FE8;
-    margin-right:0px;
-    font-family: Framework7 Icons;
-    font-size: 40px;]
 }
