@@ -111,3 +111,14 @@ color: #1A1A1A;
     font-family: Framework7 Icons;
     font-size: 40px;
 }
+.apps a:hover{
+    display:block;
+    width:55px;
+    padding:5px;
+    border-radius:50px;
+    float: right;
+    color: #FFFFFF;
+    margin-right:0px;
+    font-family: Framework7 Icons;
+    font-size: 40px;
+}
